@@ -6,6 +6,9 @@
     <groupId>io.github.mafei6827</groupId>
     <artifactId>jdk17-demo</artifactId>
     <version>0.0.2-SNAPSHOT</version>
+    <modules>
+        <module>module1</module>
+    </modules>
 
 
     <packaging>pom</packaging>
